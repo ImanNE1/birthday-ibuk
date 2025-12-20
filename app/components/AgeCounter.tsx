@@ -99,7 +99,7 @@ export default function AgeCounter({ birthDate, className = '' }: AgeCounterProp
   return (
     <div ref={counterRef} className={`${className}`}>
       <div className="text-center mb-4 sm:mb-8">
-        <p className="text-xs sm:text-sm text-gray-500 tracking-wider sm:tracking-widest uppercase mb-2">Ibu Telah Menjaga Kita Selama</p>
+        <p className="text-xs sm:text-sm text-gray-500 tracking-wider sm:tracking-widest uppercase mb-2">Ibu Telah Menjaga Ku Selama</p>
       </div>
       
       <div className="grid grid-cols-3 sm:flex sm:flex-wrap justify-center gap-3 sm:gap-4 md:gap-8">
