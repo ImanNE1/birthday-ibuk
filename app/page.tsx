@@ -275,7 +275,7 @@ export default function DeepMeaningPage() {
              </div>
           </div>
           <div className="w-full md:w-1/2 pl-0 md:pl-10 border-l-0 md:border-l border-white/10 order-1 md:order-2">
-             <div className="parallax-container relative w-full aspect-[4/5] sm:aspect-[3/4] overflow-hidden rounded-2xl glass max-w-[360px] sm:max-w-[320px] md:max-w-[280px] mx-auto">
+             <div className="parallax-container relative w-full aspect-[4/5] sm:aspect-[3/4] overflow-hidden rounded-2xl glass max-w-[400px] sm:max-w-[380px] md:max-w-[420px] mx-auto">
                 <Image 
                   src="/photo.jpeg" 
                   alt="Ibu masa muda" 
