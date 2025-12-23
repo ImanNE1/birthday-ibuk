@@ -198,7 +198,7 @@ export default function DeepMeaningPage() {
       {isStarted && <Particles />}
       {isStarted && <ProgressIndicator />}
       {isStarted && <NavigationDots totalSections={3} sectionIds={['chapter1', 'chapter2', 'chapter3']} />}
-      {isStarted && <ShareButton />}
+      {/* {isStarted && <ShareButton />} */}
       {isStarted && <MusicPlayer autoPlay={true} />}
       <Confetti isActive={showConfetti} />
 
