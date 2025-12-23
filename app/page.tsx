@@ -207,7 +207,7 @@ export default function DeepMeaningPage() {
         <div className="text-center">
           <p className="text-xs sm:text-sm tracking-[0.3em] sm:tracking-[0.5em] text-[#D4AF37] mb-4">✨ UNTUK IBU TERHEBAT ✨</p>
           <h1 className="text-xl sm:text-2xl md:text-4xl tracking-[0.2em] sm:tracking-[0.3em] mb-4 font-light text-gray-400">SEBUAH PERSEMBAHAN</h1>
-          <p className="text-gray-500 mb-6 sm:mb-8 text-xs sm:text-sm">Siapkan hati ibuk untuk sebuah perjalanan...</p>
+          <p className="text-gray-500 mb-6 sm:mb-8 text-xs sm:text-sm">Siapkan hati ibu untuk sebuah perjalanan...</p>
         </div>
         
         {/* Heart Icon */}
@@ -317,7 +317,7 @@ export default function DeepMeaningPage() {
             <div className="absolute bottom-0 right-0 w-10 sm:w-16 h-10 sm:h-16 border-b-2 border-r-2 border-[#D4AF37] rounded-br-2xl sm:rounded-br-3xl" />
             
             <span className="text-gold-500 text-xs sm:text-sm tracking-widest block mb-4 sm:mb-6">BAB III — KEABADIAN</span>
-            <h2 className="text-3xl sm:text-5xl md:text-7xl mb-6 sm:mb-8 italic text-shimmer">Selamat Ulang Tahun, Ibuk</h2>
+            <h2 className="text-3xl sm:text-5xl md:text-7xl mb-6 sm:mb-8 italic text-shimmer">Selamat Ulang Tahun, Ibuk!</h2>
             <p className="text-base sm:text-xl text-gray-300 leading-relaxed font-sans font-light mb-6 sm:mb-10">
               Ulang tahun ini hanyalah penanda waktu. Tapi cintamu menembus batas waktu. Semoga sisa usiamu dipenuhi kedamaian, sebagaimana Ibu memberikan kedamaian di hatiku.
             </p>
