@@ -72,7 +72,7 @@ export default function DeepMeaningPage() {
     // AUTO SCROLL
     const sections = document.querySelectorAll('.story-chapter');
     let currentSection = 0;
-    const autoScrollDuration = 5000;
+    const autoScrollDuration = 12000;
 
     const autoScrollInterval = setInterval(() => {
       if (currentSection < sections.length) {
@@ -207,7 +207,7 @@ export default function DeepMeaningPage() {
         <div className="text-center">
           <p className="text-xs sm:text-sm tracking-[0.3em] sm:tracking-[0.5em] text-[#D4AF37] mb-4">✨ UNTUK IBU TERHEBAT ✨</p>
           <h1 className="text-xl sm:text-2xl md:text-4xl tracking-[0.2em] sm:tracking-[0.3em] mb-4 font-light text-gray-400">SEBUAH PERSEMBAHAN</h1>
-          <p className="text-gray-500 mb-6 sm:mb-8 text-xs sm:text-sm">Siapkan hatimu untuk sebuah perjalanan</p>
+          <p className="text-gray-500 mb-6 sm:mb-8 text-xs sm:text-sm">Siapkan hati ibuk untuk sebuah perjalanan...</p>
         </div>
         
         {/* Heart Icon */}
@@ -270,12 +270,12 @@ export default function DeepMeaningPage() {
                  )}
                </h2>
                <p className="text-base sm:text-lg text-gray-400 leading-relaxed font-sans font-light">
-                 Dulu, Ibu adalah gadis dengan sejuta mimpi. Sebelum tangannya menjadi kasar karena telah merawatku, sebelum rambutnya memutih karena memikirkanku. Aku ingin mengingatmu sebagai wanita yang cantik, bukan hanya sebagai Ibuku.
+                 Dulu, Ibu adalah gadis dengan sejuta mimpi. Sebelum tangannya menjadi kasar karena telah merawatku, sebelum rambutnya memutih karena memikirkanku, sebelum senyumnya pudar karena lelah, dia adalah pahlawan tanpa tanda jasa, yang selalu ada untukku.
                </p>
              </div>
           </div>
           <div className="w-full md:w-1/2 pl-0 md:pl-10 border-l-0 md:border-l border-white/10 order-1 md:order-2">
-             <div className="parallax-container relative w-full aspect-[4/5] sm:aspect-[3/4] overflow-hidden rounded-2xl glass max-w-[400px] sm:max-w-[380px] md:max-w-[420px] mx-auto">
+             <div className="parallax-container relative w-full aspect-[4/5] sm:aspect-[3/4] overflow-hidden rounded-2xl glass max-w-[360px] sm:max-w-[320px] md:max-w-[280px] mx-auto">
                 <Image 
                   src="/photo.jpeg" 
                   alt="Ibu masa muda" 
